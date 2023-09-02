@@ -2,14 +2,15 @@ const produto1 = {
     nome: "Bebedouro Pet inteligente",
     marca: "TOCCO",
     preco: 599,
-    nomeArquivoImagem: "WF004-(1).jpg",
+    nomeArquivoImagem: "WF004 (1).jpg",
 };
 const produto1 = {
-    nome: "Bebedouro Pet inteligente",
-    marca: "TOCCO",
-    preco: 599,
-    nomeArquivoImagem: "WF004-(1).jpg",
+  nome: "Bebedouro Pet inteligente",
+  marca: "TOCCO",
+  preco: 599,
+  nomeArquivoImagem: "WF004 (1).jpg",
 };
+
 const cartaoProduto = `<div id="card-produto-1">
 <img 
   src="./Image/${produto1.nomeArquivoImagem}" 
